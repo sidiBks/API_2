@@ -1,7 +1,8 @@
 # PSEUDO CODE - EXERCICE 3
 
-> [!WARNING]
-> Exercice mal posé
+> [!NOTE]
+> tout nombre null est interprété comme : FAUX
+> tout nombre non null est interprété comme : VRAI
 
 ## 🌟 ENONCER :
 
@@ -31,8 +32,8 @@
 1. 
 ```
     E_1 = 12 * (FAUX) + 15 * NON(FAUX)
-        = 12 * 0 + 15 * 1
-        = 15
+        = VRAI ET FAUX OU VRAI ET VRAI
+        = VRAI
 ```
 2. 
 ```
@@ -46,6 +47,7 @@
 1. 
 ```
     E_2 = NON(0) OU 2
+        = VRAI
 ```
 2. 
 ```
@@ -58,7 +60,9 @@
 ```
 1. 
 ```
-    E_3 = 20 ET 5 OU NON 0 ET -10 NON 2
+    E_3 = 20 ET 5 OU NON 0 ET -10 ET NON 2
+        = VRAI ET VRAI OU VRAI ET VRAI ET FAUX
+        = VRAI
 ```
 2. 
 ```
@@ -68,14 +72,17 @@
 ### 🚀 EXPRESSION 4 :
 ```
     E_4 = ((A ET B) OU (NON 0 ET C)) ET NON D
+        = 
 ```
 1. 
 ```
     E_4 = ((20 ET 5) OU (NON 0 ET -10)) ET NON 2
+        = ((VRAI ET VRAI) ou (VRAI ET VRAI)) ET FAUX
+        = FAUX
 ```
 2. 
 ```
-    ((A ET B) OU (NON 0 ET C)) ET NON D
+    (A ET B OU NON(0) ET C) ET NON D
 ```
 
 ### 🚀 EXPRESSION 5 :
@@ -85,10 +92,12 @@
 1. 
 ```
     E_5 = ((20 ET 5) OU NON 0) OU (-10 ET (NON 2))
+        = ((VRAI ET VRAI) OU VRAI) OU (VRAI ET FAUX)
+        = VRAI
 ```
 2. 
 ```
-    ((A ET B) OU NON 0) OU (C ET (NON D))
+    (A ET B OU NON(0)) OU (C ET NON(D))
 ```
 > E STANDS FOR EXPRESSION
 
