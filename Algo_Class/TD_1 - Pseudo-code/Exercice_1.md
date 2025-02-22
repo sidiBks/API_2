@@ -2,8 +2,10 @@
 ## Enoncer :
 Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
 
-| --- | --- | --- | --- |
+
+
 | Algorithme_1 | Algorithme_2 | Algorithme_3 | Algorithme_4 |
+| --- | --- | --- | --- |
 | A, B, C : Entier | A, B, C : Entier | A, B, C : Entier | A, B, C : Entier |
 | DEBUT | DEBUT | DEBUT | DEBUT |
 | A <- 5 | A <- 3 | A <- 2 | A <- B |
