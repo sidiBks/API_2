@@ -1,6 +1,6 @@
 # PSEUDO CODE - EXERCICE 3
 
-> [!NOTE]
+> [!WARNING]
 > Enoncé mal posé
 
 ## 🌟 ENONCER :
