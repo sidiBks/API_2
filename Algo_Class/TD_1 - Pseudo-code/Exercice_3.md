@@ -1,5 +1,8 @@
 # PSEUDO CODE - EXERCICE 3
 
+> [!NOTE]
+> Enoncé mal posé
+
 ## 🌟 ENONCER :
 
 ```
@@ -18,8 +21,6 @@
 |X|12|
 |Y|15|
 
-> [!NOTE]
-> Enoncé mal posé
 
 ## ✅ REPONSE :
 
