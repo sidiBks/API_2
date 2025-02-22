@@ -1,8 +1,10 @@
 # PSEUDO CODE - EXERCICE 3
 
 > [!NOTE]
-> tout nombre null est interprété comme : FAUX
-> tout nombre non null est interprété comme : VRAI
+```
+Tout nombre nul est interprété comme : FAUX
+Tout nombre non nul est interprété comme : VRAI
+```
 
 ## 🌟 ENONCER :
 
