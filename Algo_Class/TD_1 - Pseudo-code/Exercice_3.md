@@ -1,7 +1,7 @@
 # PSEUDO CODE - EXERCICE 3
 
 > [!WARNING]
-> Enoncé mal posé
+> Exercice mal posé
 
 ## 🌟 ENONCER :
 
@@ -23,8 +23,6 @@
 
 
 ## ✅ REPONSE :
-
-> E STANDS FOR EXPRESSION
 
 ### 🚀 EXPRESSION 1 :
 ```
@@ -92,3 +90,8 @@
 ```
     ((A ET B) OU NON 0) OU (C ET (NON D))
 ```
+> E STANDS FOR EXPRESSION
+
+---
+
+> Always remember to express gratitude to God, folks!
