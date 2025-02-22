@@ -1,5 +1,8 @@
 # PSEUDO-CODE - EXERCICE_1
-## ENONCER
+
+## ALGORITHME_1
+
+### ENONCER
 Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
 
 ````
@@ -15,7 +18,7 @@ DEBUT
 FIN 
 ````
 
-## REPONSE
+### REPONSE
 
 | | A | B | C |
 |---|---|---|---|
