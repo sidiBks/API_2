@@ -60,7 +60,10 @@ FIN
     Troisième couple : Entrée: (3, 2, 1) => Sortie: (1, 2, 3)
 ```
 
-2. L'utilité de cet algorithme n'est autre que réaranger l'entrée en ordre croissant. Un nom plus significatif sera : Algorithme de tri
+2. 
+```
+    L'utilité de cet algorithme n'est autre que réaranger l'entrée en ordre croissant. Un nom plus significatif sera : Algorithme de tri
+```
 
 3.  
 ```
