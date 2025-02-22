@@ -74,7 +74,6 @@
 ### 🚀 EXPRESSION 4 :
 ```
     E_4 = ((A ET B) OU (NON 0 ET C)) ET NON D
-        = 
 ```
 1. 
 ```
