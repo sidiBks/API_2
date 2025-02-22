@@ -53,7 +53,7 @@ FIN
 | B <- A + B | 3 | 13 | 13 |
 | A <- C | 13 | 13 | 13 |
 
-### 🚀 ALGORITHME_2
+### 🚀 ALGORITHME_3
 
 ````
 Algorithme_3
