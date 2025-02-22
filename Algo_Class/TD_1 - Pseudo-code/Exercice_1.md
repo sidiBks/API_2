@@ -80,3 +80,27 @@ FIN
 | C <- (5*(A+2)\*3)*(B+4) | 2 | 1 | 300 |
 | B <- C+8/2 | 2 | 304 | 300 |
 | A <- C%2 | 0 | 304 | 300 |
+
+### 🚀 ALGORITHME_3 :
+---
+
+````
+Algorithme_4
+    A, B, C : Entier
+    ---
+DEBUT
+    A <- B
+    B <- A
+    C <- A - B
+FIN 
+````
+
+### ✅ REPONSE
+
+| | A | B | C |
+|:---:|:---:|:---:|:---:|
+| A <- B | ? | ? | ? |
+| B <- A | ? | ? | ? | 
+| C <- A - B | ? | ? | ? |
+
+> Always remember to express gratitude to God, folks!
