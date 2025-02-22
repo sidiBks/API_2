@@ -16,3 +16,16 @@ Quelles seront les valeurs des variables A,B et C après exécution des instruct
 | FIN | FIN | FIN | FIN |
 | --- | --- | --- | --- |
 
+
+
+````
+Algorithme_1
+    A, B, C : Entier
+    ---
+    A <- 5
+    B <- 3
+    C <- A + B
+    A <- 2 
+    C <- B - A
+FIN 
+````
