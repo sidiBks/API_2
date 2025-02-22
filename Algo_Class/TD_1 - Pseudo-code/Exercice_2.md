@@ -62,7 +62,8 @@ FIN
 
 2. 
 ```
-    L'utilité de cet algorithme n'est autre que réaranger l'entrée en ordre croissant. Un nom plus significatif sera : Algorithme de tri
+    L'utilité de cet algorithme n'est autre que réaranger l'entrée en ordre croissant. 
+    Un nom plus significatif sera : Algorithme de tri
 ```
 
 3.  
