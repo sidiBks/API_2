@@ -100,7 +100,6 @@
 ```
     (A ET B OU NON(0)) OU (C ET NON(D))
 ```
-> E STANDS FOR EXPRESSION
 
 ---
 
