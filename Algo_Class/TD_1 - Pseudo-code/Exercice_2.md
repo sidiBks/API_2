@@ -55,7 +55,10 @@ FIN
 
 ## ✅ REPONSE :
 
-1.  Schéma de réponse : Entrée: (A, B, C) => Sortie: (p, d, t)
+1.
+```
+    Schéma de réponse : Entrée: (A, B, C) => Sortie: (p, d, t)
+```
 ```
     Premier   couple : Entrée: (5, 8, 9) => Sortie: (5, 8 ,9)
     Deuxième  couple : Entrée: (2, 6, 3) => Sortie: (2, 3, 6)
