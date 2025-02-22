@@ -18,6 +18,9 @@
 |X|12|
 |Y|15|
 
+> [!NOTE]
+> Enoncé mal posé
+
 ## ✅ REPONSE :
 
 > E STANDS FOR EXPRESSION
