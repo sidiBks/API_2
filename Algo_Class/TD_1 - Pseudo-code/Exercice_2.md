@@ -62,9 +62,11 @@ FIN
 
 2. L'utilité de cet algorithme n'est autre que réaranger l'entrée en ordre croissant. Un nom plus significatif sera : Algorithme de tri
 
-3.  Nombre d'affectations : 3.
-##
+3.  
+```
+    Nombre d'affectations : 3.
     Nombre de comparaisons : entre 2 et 4
+```
 
 --- 
 
