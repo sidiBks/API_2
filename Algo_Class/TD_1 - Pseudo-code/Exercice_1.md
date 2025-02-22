@@ -4,6 +4,7 @@
 Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
 
 ### 🚀 ALGORITHME_1 :
+---
 
 ````
 Algorithme_1
@@ -29,6 +30,7 @@ FIN
 | C <- B - A | 2 | 3 | 1 |
 
 ### 🚀 ALGORITHME_2 :
+---
 
 ````
 Algorithme_2
@@ -54,6 +56,7 @@ FIN
 | A <- C | 13 | 13 | 13 |
 
 ### 🚀 ALGORITHME_3 :
+---
 
 ````
 Algorithme_3
