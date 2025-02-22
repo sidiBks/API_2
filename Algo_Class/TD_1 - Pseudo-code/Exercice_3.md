@@ -1,6 +1,6 @@
 # PSEUDO CODE - EXERCICE 3
 
-> [!NOTE]
+>NOTE
 ```
 Tout nombre nul est interprété comme : FAUX
 Tout nombre non nul est interprété comme : VRAI
