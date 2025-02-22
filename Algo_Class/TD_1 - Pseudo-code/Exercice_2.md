@@ -8,7 +8,6 @@
 ```
 
 ## 🚀 Algorithme :
----
 
 ````
 Algorithme_Mystere
