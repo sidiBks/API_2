@@ -1,7 +1,9 @@
 # PSEUDO CODE - EXERCICE 1
 
 ## 🌟 ENONCER :
-Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
+```
+    Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
+```
 
 ### 🚀 ALGORITHME_1 :
 ---
