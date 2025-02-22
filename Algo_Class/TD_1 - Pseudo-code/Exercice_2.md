@@ -2,7 +2,8 @@
 
 ## 🌟 ENONCER :
 ```
-    1. Simuler l'exécution de l'algorithme ci-dessus en utilisant comme valeurs pour A, B et C : (5, 8, 9) puis (2, 6, 3) et enfin (3, 2, 1) (formuler les preuves).
+    1. Simuler l'exécution de l'algorithme ci-dessus en utilisant comme valeurs pour A, B et C : 
+    (5, 8, 9) puis (2, 6, 3) et enfin (3, 2, 1) (formuler les preuves).
     2. En déduire l'utilité de cet algorithme et donner lui un nom plus significatif.
     3. Déterminer le nombre d'affectations et de comparaisons engendrées par l'algorithme (une fourchette si ce nombre varie)
 ```
