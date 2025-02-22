@@ -55,8 +55,8 @@ FIN
 
 1.  Schéma de réponse : Entrée: (A, B, C) => Sortie: (p, d, t)
 ```
-    Premier couple   : Entrée: (5, 8, 9) => Sortie: (5, 8 ,9)
-    Deuxième couple  : Entrée: (2, 6, 3) => Sortie: (2, 3, 6)
+    Premier   couple : Entrée: (5, 8, 9) => Sortie: (5, 8 ,9)
+    Deuxième  couple : Entrée: (2, 6, 3) => Sortie: (2, 3, 6)
     Troisième couple : Entrée: (3, 2, 1) => Sortie: (1, 2, 3)
 ```
 
@@ -64,3 +64,7 @@ FIN
 
 3.  Nombre d'affectations : 3.
     Nombre de comparaisons : entre 2 et 4
+
+--- 
+
+> Always remember to express gratitude to God, folks!
