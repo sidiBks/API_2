@@ -20,7 +20,7 @@
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_CALCUL_SUITE_1
     U, n, i : Entier
     ---
 DEBUT
@@ -50,7 +50,7 @@ FIN
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_CALCUL_SUITE_2
     U, U0, U1, n, i : Entier
     ---
 DEBUT
@@ -91,7 +91,7 @@ FIN
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_CALCUL_SUITE_3
     i, n : Entier
     U : Réel
     ---

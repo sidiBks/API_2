@@ -13,7 +13,7 @@
 ## ✅ REPONSE :
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_CALCUL_MAX
     i, n, max : Entier
     ---
 DEBUT
