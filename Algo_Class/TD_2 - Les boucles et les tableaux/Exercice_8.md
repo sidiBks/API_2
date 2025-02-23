@@ -14,8 +14,8 @@
 \[
 
 \begin{cases} 
-U_0 = 1 \\
-U_{n} = 6U_{n-1} + 4 & \text{si } n > 1
+    U_0 = 1 \\
+    U_{n} = 6U_{n-1} + 4 & \text{si } n > 1
 \end{cases}
 \]
 
@@ -38,8 +38,8 @@ FIN
 \[
 
 \begin{cases} 
-U_0 = 0, U_1 = 1 \\
-U_{n} = 6U_{n-1} - 9U_{n-2} & \text{si } n > 1
+    U_0 = 0, U_1 = 1 \\
+    U_{n} = 6U_{n-1} - 9U_{n-2} & \text{si } n > 1
 \end{cases}
 \]
 
@@ -61,10 +61,7 @@ FIN
 ```math
 
 \begin{cases} 
-\begin{cases} 
-U_0 = 4
-\end{cases}
- \\
+    U_0 = 4 \\
 \quad \forall n \in \mathbb{N*} & 
 \begin{cases} 
     U_{n} = \frac{U_{n-1}}{2}, \text{si n est pair} \\
