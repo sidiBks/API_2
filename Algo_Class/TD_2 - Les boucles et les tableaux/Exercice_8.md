@@ -59,7 +59,7 @@ FIN
 3. 
 
 ```math
-\[
+\begin{center}
 
 \begin{cases} 
 U_0 = 4 \\
@@ -69,7 +69,8 @@ U_0 = 4 \\
     U_{n} = \frac{U_{n-1} + 1}{2}, \text{si n est impair} n > 1
 \end{cases}
 \end{cases}
-\]
+
+\end{center}
 
 ```
 
