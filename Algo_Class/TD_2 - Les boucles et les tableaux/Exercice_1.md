@@ -21,7 +21,7 @@ DEBUT
         j <- p
     FINSI
     S <- 0
-    POUR(k<-i, k<=j, k<-k+10)
+    POUR(k<-i, k<=j, k<-k+1)
         S <- S+k
     FINPOUR
     AFFICHER("La valeur de la somme S: ", S)
