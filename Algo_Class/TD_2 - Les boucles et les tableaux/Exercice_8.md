@@ -60,8 +60,8 @@ FIN
 U_0 = 4 \\
 \quad \forall n \in \mathbb{N*} & 
 \begin{cases} 
-    U_{n} = U_{n-1}/2 , \text{si n est pair} \\
-    U_{n} = (U_{n-1} + 1 )/2 & \text{si n est impair} n > 1
+    U_{n} = \frac{U_{n-1}}{2}, \text{si n est pair} \\
+    U_{n} = \frac{U_{n-1} + 1}{2}, \text{si n est impair} n > 1
 \end{cases}
 \end{cases}
 
