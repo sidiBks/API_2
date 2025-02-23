@@ -44,7 +44,7 @@ FIN
 
 \begin{cases} 
 \quad U_0 = 0, \quad U_1 = 1 \\
-\quad U_{n} = 6U_{n-1} - 9U_{n-2} & \text{si } n > 1
+\quad U_{n} = 6U_{n-1} - 9U_{n-2}, & \text{si } n > 1
 \end{cases}
 
 ```
