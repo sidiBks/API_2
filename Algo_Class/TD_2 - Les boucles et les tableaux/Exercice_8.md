@@ -33,7 +33,7 @@ DEBUT
             U <- 6*U + 4
         FINSI
     FINPOUR
-    AFFICHER("Le", n, "ème terme de U: ", U)
+    AFFICHER("Le ", n, " ème terme de U: ", U)
 FIN 
 ````
 
@@ -69,7 +69,7 @@ DEBUT
             U1 <- U
         FINSI
     FINPOUR
-    AFFICHER("Le", n, "ème terme de U: ", U)
+    AFFICHER("Le ", n, " ème terme de U: ", U)
 FIN 
 ````
 
