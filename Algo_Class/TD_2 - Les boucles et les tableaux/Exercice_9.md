@@ -59,7 +59,7 @@ FIN
 
 ```math
 
-\sum_{i=1}^{n} (\sum_{j=0}^{i} (\sum_{k=j}^{i} ( i+j-k ) + 4) x 2)
+\sum_{i=1}^{n} (\sum_{j=0}^{i} (\sum_{k=j}^{i} ( i+j-k ) + 4) \times 2)
 
 ```
 
@@ -90,7 +90,7 @@ FIN
 
 ```math
 
-\prod_{i=1}^{n} \sum_{j=1}^{m} \frac{i+j}{i*j}
+\prod_{i=1}^{n} \sum_{j=1}^{m} \frac{i+j}{i \times j}
 
 ```
 
