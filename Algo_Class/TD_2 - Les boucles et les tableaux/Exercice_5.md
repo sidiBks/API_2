@@ -11,17 +11,26 @@
 
 ````
 ALGORITHME_NOMBRES_DANS_UN_CHIFFRE
-    i, n : Entier
+    compt, n : Entier
     ---
 DEBUT
     AFFICHER("Introduire un nombre:")
     LIRE(n)
-    i <- 0
+
+    SI (n = 0) ALORS
+        compt <- 1
+    FINSI
+
+    SI (n < 0) ALORS
+        n <- (-1)*n
+    FINSI
+
+    compt <- 0
     TANTQUE (n != 0)
-        i <- i + 1
+        compt <- compt + 1
         n <- n div 10
     FINTQ
-    AFFICHER("Le nombre", n, "a", i, "chiffres")
+    AFFICHER("Le nombre", n, "a", compt, "chiffres")
 FIN 
 ````
 
