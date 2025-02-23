@@ -11,9 +11,7 @@
 
 ```math
 
-\begin{cases} 
 \sum_{i=1}^{n} i^{2}
-\end{cases}
 
 ```
 
