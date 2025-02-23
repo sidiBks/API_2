@@ -10,7 +10,8 @@
 
 ````
 ALGORITHME_CALCUL_INTERET
-    i, M, age : Entier
+    i, age : Entier
+    M : Réel
     ---
 DEBUT
     AFFICHER("Donner l'age de Karim")
