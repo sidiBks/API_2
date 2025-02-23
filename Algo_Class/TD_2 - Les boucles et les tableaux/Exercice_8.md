@@ -11,11 +11,13 @@
 1. 
 
 ```math
+\[
 
 \begin{cases} 
 U_0 = 1 \\
 U_{n} = 6U_{n-1} + 4 & \text{si } n > 1
 \end{cases}
+\]
 
 ```
 
@@ -33,11 +35,13 @@ FIN
 2. 
 
 ```math
+\[
 
 \begin{cases} 
 U_0 = 0, U_1 = 1 \\
 U_{n} = 6U_{n-1} - 9U_{n-2} & \text{si } n > 1
 \end{cases}
+\]
 
 ```
 
@@ -55,6 +59,7 @@ FIN
 3. 
 
 ```math
+\[
 
 \begin{cases} 
 U_0 = 4 \\
@@ -64,6 +69,7 @@ U_0 = 4 \\
     U_{n} = \frac{U_{n-1} + 1}{2}, \text{si n est impair} n > 1
 \end{cases}
 \end{cases}
+\]
 
 ```
 
