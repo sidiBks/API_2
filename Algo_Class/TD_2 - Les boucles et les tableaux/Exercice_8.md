@@ -102,7 +102,7 @@ DEBUT
         SI (i = 0) ALORS
             U <- 4
         SINON
-            SI (n%2 = 0) ALORS
+            SI (i%2 = 0) ALORS
                 U <- U/2
             SINON
                 U <- (U+1)/2
