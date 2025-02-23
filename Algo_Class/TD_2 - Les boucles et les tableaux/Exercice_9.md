@@ -40,7 +40,8 @@ FIN
 
 ````
 ALGORITHME_SOMME_HARMONIQUE_DOUBLE
-    S, n, m, i, j : Entier
+    n, m, i, j : Entier
+    S : Réel
     ---
 DEBUT
     AFFICHER("Donner une valeur de n et m")
