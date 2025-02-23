@@ -109,7 +109,7 @@ DEBUT
             FINSI
         FINSI
     FINPOUR
-    AFFICHER("Le", n, "ème terme de U: ", U)
+    AFFICHER("Le", n, " ème terme de U: ", U)
 FIN 
 ````
 
