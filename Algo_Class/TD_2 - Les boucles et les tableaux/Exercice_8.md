@@ -14,7 +14,7 @@
 
 \begin{cases} 
 \quad U_0 = 1 \\
-\quad U_{n} = 6U_{n-1} + 4 & \text{si,} \quad n > 1
+\quad U_{n} = 6U_{n-1} + 4, & \text{si} \quad n > 1
 \end{cases}
 
 ```
