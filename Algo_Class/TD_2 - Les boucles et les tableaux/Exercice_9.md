@@ -96,7 +96,8 @@ FIN
 
 ````
 ALGORITHME_PRODUIT_DE_SOMME
-    S, P, n, m : Entier
+    S, P : Réel
+    n, m : Entier
     ---
 DEBUT
     AFFICHER("Donner la valeur de m et n")
