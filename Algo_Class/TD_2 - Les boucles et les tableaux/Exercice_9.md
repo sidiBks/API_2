@@ -26,7 +26,7 @@ DEBUT
     POUR (i<-1, i<=n, i<-i+1)
         S <- S + i*i
     FINPOUR
-    AFFICHER("La valeu de la somme S est : ", S)
+    AFFICHER("La valeur de la somme S est : ", S)
 FIN 
 ````
 
@@ -52,7 +52,7 @@ DEBUT
             S <- S + 1/(i+j)
         FINPOUR
     FINPOUR
-    AFFICHER("La valeu de la somme S est : ", S)
+    AFFICHER("La valeur de la somme S est : ", S)
 FIN 
 ````
 
@@ -83,7 +83,7 @@ DEBUT
         S <- S + Si
     FINPOUR
     S <- 2*S
-    AFFICHER("La valeu de la somme S est : ", S)
+    AFFICHER("La valeur de la somme S est : ", S)
 FIN 
 ````
 
