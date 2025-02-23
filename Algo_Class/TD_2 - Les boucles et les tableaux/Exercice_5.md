@@ -24,3 +24,7 @@ DEBUT
     AFFICHER("Le nombre", n, "a", i, "chiffres")
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

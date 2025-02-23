@@ -44,3 +44,7 @@ DEBUT
     AFFICHER("La valeur de la combinaison est C: ", C)
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

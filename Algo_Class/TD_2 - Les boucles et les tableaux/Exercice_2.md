@@ -26,3 +26,7 @@ DEBUT
     FINPOUR
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

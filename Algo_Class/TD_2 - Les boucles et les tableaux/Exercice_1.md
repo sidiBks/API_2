@@ -27,3 +27,7 @@ DEBUT
     AFFICHER("La valeur de la somme S: ", S)
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

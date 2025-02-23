@@ -22,3 +22,7 @@ DEBUT
     FINTQ
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

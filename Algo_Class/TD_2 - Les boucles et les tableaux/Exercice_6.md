@@ -22,3 +22,7 @@ DEBUT
     AFFICHER("à l'age de ", age, "karim aura : ", M)
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!

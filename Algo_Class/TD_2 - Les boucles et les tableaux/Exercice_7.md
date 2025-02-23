@@ -27,3 +27,7 @@ DEBUT
     AFFICHER("Le plus grand de ces nombres est : ", max)
 FIN 
 ````
+
+--- 
+
+> Always remember to express gratitude to God, folks!
