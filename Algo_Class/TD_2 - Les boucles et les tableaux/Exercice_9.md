@@ -96,10 +96,20 @@ FIN
 
 ````
 ALGORITHME_PRODUIT_DE_SOMME
-    S, n, m, i, j : Entier
+    S, P, n, m : Entier
     ---
 DEBUT
-    
+    AFFICHER("Donner la valeur de m et n")
+    LIRE(m,n)
+    S <- 0
+    P <- 1
+    POUR (i<-1, i<=n, i<-i+1)
+        POUR (j<-1, j<=m, j<-j+1)
+            S <- S + (i+j)/(i*j)
+        FINPOUR
+        P <- P * S
+    FINRPOUR
+    AFFICHER("La valeur du produit est : ", P)
 FIN 
 ````
 
