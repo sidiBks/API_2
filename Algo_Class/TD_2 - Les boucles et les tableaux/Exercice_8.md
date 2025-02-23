@@ -59,10 +59,12 @@ FIN
 3. 
 
 ```math
-\begin{center}
 
 \begin{cases} 
-U_0 = 4 \\
+\begin{cases} 
+U_0 = 4
+\end{cases}
+ \\
 \quad \forall n \in \mathbb{N*} & 
 \begin{cases} 
     U_{n} = \frac{U_{n-1}}{2}, \text{si n est pair} \\
@@ -70,7 +72,6 @@ U_0 = 4 \\
 \end{cases}
 \end{cases}
 
-\end{center}
 
 ```
 
