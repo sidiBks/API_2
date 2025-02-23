@@ -59,7 +59,7 @@ FIN
 
 ```math
 
-\sum_{i=1}^{n} (\sum_{j=0}^{i} (\sum_{k=j}^{i} (i+j-k)+4)x2)
+\sum_{i=1}^{n} (\sum_{j=0}^{i} (\sum_{k=j}^{i} ( i+j-k ) + 4) x 2)
 
 ```
 
