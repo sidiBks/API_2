@@ -16,7 +16,7 @@
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_SOMME_CARRE
     S, n, i : Entier
     ---
 DEBUT
@@ -39,7 +39,7 @@ FIN
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_SOMME_HARMONIQUE_DOUBLE
     S, n, m, i, j : Entier
     ---
 DEBUT
@@ -64,7 +64,7 @@ FIN
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_SOMME_TRIANGULAIRE_TRIPLE
     S, Si, n, i, j, k : Entier
     ---
 DEBUT
@@ -95,7 +95,7 @@ FIN
 ```
 
 ````
-ALGORITHME_CALCUL_INTERET
+ALGORITHME_PRODUIT_DE_SOMME
     S, n, m, i, j : Entier
     ---
 DEBUT
