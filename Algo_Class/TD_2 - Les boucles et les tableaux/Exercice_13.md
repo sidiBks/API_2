@@ -37,7 +37,7 @@ DEBUT
     FINPOUR
 
 
-    /* On refait la même chose mais cette fois sur les colonnes en utilisant Mj[18]. */
+    /* On refait la même chose mais cette fois suivant les colonnes sur Mj[18]. */
     POUR (j<-0, j<18, j<-j+1)
         POUR (i<-0, i<22, i<-i+1)
             SI(i=0 OU un_max < T[i][j]) ALORS
