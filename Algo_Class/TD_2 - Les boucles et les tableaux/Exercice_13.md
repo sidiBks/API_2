@@ -66,7 +66,7 @@ DEBUT
 
     AFFICHER('Le maximum en colonne est : ', max_j)
 
-    /* Le maximum global n'est autres que max{max_i,max_j}*/
+    /* Le maximum global n'est autres que max{max_i,max_j}. */
     SI(max_i >= max_j) ALORS
         max_global <- max_i
     SINON
