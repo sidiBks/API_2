@@ -9,7 +9,7 @@
 
 ````
 ALGORITHME_CALCUL_COMBINAISON
-    C, P1, P2, P3, i, k : Entier
+    C, P1, P2, P3, i, k : ENTIER
     ---
 DEBUT
     SI (p > n) ALORS

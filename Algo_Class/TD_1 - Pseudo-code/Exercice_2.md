@@ -11,7 +11,7 @@
 
 ````
 Algorithme_Mystere
-    A, B, C, p, d, t : Entier
+    A, B, C, p, d, t : ENTIER
     ---
 DEBUT
     /* Lecture des variables */

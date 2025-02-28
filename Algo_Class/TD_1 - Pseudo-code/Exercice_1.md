@@ -10,7 +10,7 @@
 
 ````
 Algorithme_1
-    A, B, C : Entier
+    A, B, C : ENTIER
     ---
 DEBUT
     A <- 5
@@ -36,7 +36,7 @@ FIN
 
 ````
 Algorithme_2
-    A, B, C : Entier
+    A, B, C : ENTIER
     ---
 DEBUT
     A <- 3
@@ -62,7 +62,7 @@ FIN
 
 ````
 Algorithme_3
-    A, B, C : Entier
+    A, B, C : ENTIER
     ---
 DEBUT
     A <- 2
@@ -88,7 +88,7 @@ FIN
 
 ````
 Algorithme_4
-    A, B, C : Entier
+    A, B, C : ENTIER
     ---
 DEBUT
     A <- B

@@ -14,7 +14,7 @@
 
 ````
 ALGORITHME_CALCUL_MAX
-    i, n, max : Entier
+    i, n, max : ENTIER
     ---
 DEBUT
     POUR (i<-1, i<=20, i<-i+1)

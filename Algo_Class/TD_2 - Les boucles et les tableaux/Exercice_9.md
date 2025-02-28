@@ -17,7 +17,7 @@
 
 ````
 ALGORITHME_SOMME_CARRE
-    S, n, i : Entier
+    S, n, i : ENTIER
     ---
 DEBUT
     AFFICHER("Donner une valeur de n")
@@ -40,8 +40,8 @@ FIN
 
 ````
 ALGORITHME_SOMME_HARMONIQUE_DOUBLE
-    n, m, i, j : Entier
-    S : Réel
+    n, m, i, j : ENTIER
+    S : REEL
     ---
 DEBUT
     AFFICHER("Donner une valeur de n et m")
@@ -66,7 +66,7 @@ FIN
 
 ````
 ALGORITHME_SOMME_TRIANGULAIRE_TRIPLE
-    S, Si, n, i, j, k : Entier
+    S, Si, n, i, j, k : ENTIER
     ---
 DEBUT
     AFFICHER("Donner une valeur de n")
@@ -97,8 +97,8 @@ FIN
 
 ````
 ALGORITHME_PRODUIT_DE_SOMME
-    S, P : Réel
-    n, m : Entier
+    S, P : REEL
+    n, m : ENTIER
     ---
 DEBUT
     AFFICHER("Donner la valeur de m et n")

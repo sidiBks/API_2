@@ -10,7 +10,7 @@
 
 ````
 ALGORITHME_SOMME
-    i, j, k, S, p : Entier
+    i, j, k, S, p : ENTIER
     ---
 DEBUT
     AFFICHER("Donner deux nombres")

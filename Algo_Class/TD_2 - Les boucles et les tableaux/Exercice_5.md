@@ -11,7 +11,7 @@
 
 ````
 ALGORITHME_NOMBRES_DANS_UN_CHIFFRE
-    compt, n : Entier
+    compt, n : ENTIER
     ---
 DEBUT
     AFFICHER("Introduire un nombre:")

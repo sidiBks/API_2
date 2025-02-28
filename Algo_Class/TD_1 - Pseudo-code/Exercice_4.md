@@ -14,7 +14,7 @@
 
 ````
 Calcul_de_resistance
-    T, Req, R1, R2, R3 : Entier
+    T, Req, R1, R2, R3 : ENTIER
     ---
 DEBUT
     AFFICHER("Donner les valeur de R1 R2 et R3")

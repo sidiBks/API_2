@@ -15,7 +15,7 @@
 
 ````
 ALGORITHME_TABLE_MULTIPLICATION
-    i, j : Entier
+    i, j : ENTIER
     ---
 DEBUT
     POUR(i<-1, i<=9, i<-i+1)

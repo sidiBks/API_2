@@ -21,7 +21,7 @@
 
 ````
 ALGORITHME_CALCUL_SUITE_1
-    U, n, i : Entier
+    U, n, i : ENTIER
     ---
 DEBUT
     AFFICHER("Insérer un nombre")
@@ -51,7 +51,7 @@ FIN
 
 ````
 ALGORITHME_CALCUL_SUITE_2
-    U, U0, U1, n, i : Entier
+    U, U0, U1, n, i : ENTIER
     ---
 DEBUT
     AFFICHER("Insérer un nombre")
@@ -92,8 +92,8 @@ FIN
 
 ````
 ALGORITHME_CALCUL_SUITE_3
-    i, n : Entier
-    U : Réel
+    i, n : ENTIER
+    U : REEL
     ---
 DEBUT
     AFFICHER("Insérer un nombre")

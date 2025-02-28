@@ -9,7 +9,7 @@
 
 ````
 ALGORITHME_REVERSED_INTEGER
-    I, r, n : Entier
+    I, r, n : ENTIER
     ---
 DEBUT
     AFFICHER("Donner un entier à inverser")
