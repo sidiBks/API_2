@@ -18,9 +18,6 @@ ALGORITHME_LIST_REVERSE
     FIND : BOOLEENNE
     ---
 DEBUT
-
-FIN 
-````
     /* Saisir le tableau T. */
 
     POUR (i<-0, i<40, i<-i+1)
@@ -73,6 +70,9 @@ FIN
             AFFICHER('Ceci est un élément pair : ', T[l])
         FINSI
     FINPOUR
+FIN 
+````
+    
 
 --- 
 
