@@ -9,6 +9,9 @@ cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots , \quad x 
 ## ✅ REPONSE :
 
 ````
+
+/* Definition des fonctions */
+
 FONCTION puissance (x : REEL, n : ENTIER) : REEL
     x_power_n, i : ENTIER
     ---
@@ -29,6 +32,7 @@ DEBUT
     #
 FINFCT
 
+/* Algorithme / Logique */
 
 ALGORITHME CALCUL_COS
 
