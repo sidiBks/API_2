@@ -13,6 +13,27 @@ FONCTION puissance (x : REEL, n : ENTIER) : REEL
     x_power_n, i : ENTIER
     ---
 DEBUT
-    
+    x_power_n <- 1
+    POUR (i<-1, i<=n, i<-i+1)
+        x_power_n <- x_power_n * x
+    FINPOUR
+
+    RETOURNE x_power_n
 FINFCT
+
+
+FONCTION factoriel () : 
+
+    ---
+DEBUT
+    #
+FINFCT
+
+
+ALGORITHME CALCUL_COS
+
+    ---
+DEBUT
+   #
+FIN 
 ````
