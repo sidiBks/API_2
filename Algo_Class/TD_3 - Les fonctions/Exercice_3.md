@@ -2,7 +2,7 @@
 
 ## 🌟 ENONCER :
 ```math
-\test{Ecrire une fonction qui permet de calculer le cosinus de x \in [0, \frac{\pi}{2}]}
+\text{Ecrire une fonction qui permet de calculer le cosinus de x \in [0, \frac{\pi}{2}]}
 
 ```
 
