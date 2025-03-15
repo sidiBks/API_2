@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 8
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire des algorithmes qui calculent et affichent la valeur de chacune de ces suites pour une certaine valeur de << n >> Introduite par l'utilisateur
 ```

@@ -1,6 +1,6 @@
 # PSEUDO CODE - EXERCICE 4 
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui affiche la résistance équivalente à trois résistances R_{1}, R_{2} et R_{3} (type Réel).
     Les données sont introduites par l'utilisateur et l'algorithme doit proposer un choix à l'utilisateur en fonction du branchement des résistances:

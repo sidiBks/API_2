@@ -1,6 +1,6 @@
 # PSEUDO CODE - EXERCICE 2
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     1. Simuler l'exécution de l'algorithme ci-dessous en utilisant comme valeurs pour A, B et C : (5, 8, 9), (2, 6, 3) et (3, 2, 1).
     2. En déduire l'utilité de cet algorithme et donner lui un nom plus significatif.

@@ -1,6 +1,6 @@
 # PSEUDO CODE - EXERCICE 1
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Quelles seront les valeurs des variables A,B et C après exécution des instructions des algorithmes suivants ?
 ```

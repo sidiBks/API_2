@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 3
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui saisit un entier et qui l'affiche à l'envers. Par exemple, l'utilisateur saisit 123456 et le prograrmme affiche 654321.
 ```

@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 14
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Etant donnée un tableau T de 40 entiers, écrire un algorithme permettant de :
         > Saisir le tableau T

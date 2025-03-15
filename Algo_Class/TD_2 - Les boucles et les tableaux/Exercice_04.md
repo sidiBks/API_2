@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 4
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui demande à l'utilisateur de fournir deux nombres entiers n et p, tel que n >= p. Puis, il calcul le nombre de combinaisons de p par n : C_{n}^{p}
 ```

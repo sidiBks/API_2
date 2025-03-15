@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 12
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui permet d'inverser l'ordre des éléments d'un tableau d'entiers.
 ```

@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 7
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui demande successivement 20 nombres à l'utilisateur, et qui lui dise ensuite quel était le plus grand parmi ces 20 nombres. Exemple d'exécution :
         Entrer le nombre numéro 1 : 12

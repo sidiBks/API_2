@@ -1,6 +1,6 @@
 # LES SOUS ALGORITHMES (LES FONCTIONS) - EXERCICE 2
 
-## 🌟 ENONCER 1:
+## 🌟 ENONCE 1:
 ```
     Ecrire une fonction qui calcule et retourne la puissance n (entier positif) d'un nombre réel x.
 ```
@@ -21,9 +21,9 @@ DEBUT
 FINFCT
 ````
 
-## 🌟 ENONCER 2:
+## 🌟 ENONCE 2:
 ```
-    Ecrire un algorithme qui permet de calculer la valeur d'un polynôme P(x) dont le degré, les coefficients et la valeur de x sont introduits par l'utilisateur.
+    Ecrire un algorithme qui permet d'évaluer la valeur d'un polynôme P(x) dont le degré, les coefficients et la valeur de x sont introduits par l'utilisateur.
 ```
 
 ## ✅ REPONSE 2:
@@ -58,3 +58,8 @@ DEBUT
 
 FIN 
 ````
+
+
+--- 
+
+> Always remember to express gratitude to God, folks!

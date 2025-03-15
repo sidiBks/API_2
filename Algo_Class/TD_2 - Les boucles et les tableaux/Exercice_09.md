@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 9
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire les algorithmes qui calculent et affichent la valeur de chacune de ces séries pour une certaine valeur de « n » et « m » introduite par l’utilisateur.
 ```

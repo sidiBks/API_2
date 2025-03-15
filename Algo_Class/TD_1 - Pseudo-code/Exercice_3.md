@@ -6,7 +6,7 @@
     Tout nombre non nul est interprété comme : VRAI
 ```
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 
 ```
     1. Evaluer les expressions ci-dessous

@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 6
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Pour sa naissance, la grand-mère de Karim place une somme de 10000dh sur son compte épargne rémunéré au taux de 2.25% (chaque année le compte est augmenté de 2.25%).
     Développer un algorithme permettant d’afficher le montant de son compte lorsque Karim va atteindre un certain âge.

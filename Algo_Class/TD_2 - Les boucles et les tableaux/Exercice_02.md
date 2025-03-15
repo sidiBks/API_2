@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 2
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui affiche les 9 tables de multiplication pour les entiers de 1 à 9. Chaque table comporte 9 éléments, sous la forme suivant :
     1   2   3   4   5   6    7    8    9 

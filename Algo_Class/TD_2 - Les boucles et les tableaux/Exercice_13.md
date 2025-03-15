@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 13
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Soit un tableau T à deux dimensions (22, 18) que vous devrez remplir de valeurs numériques réels.
     Ecrire un algorithme :

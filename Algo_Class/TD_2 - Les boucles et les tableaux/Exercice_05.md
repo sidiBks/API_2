@@ -1,6 +1,6 @@
 # LES BOUCLES ET LES LISTES - EXERCICE 5
 
-## 🌟 ENONCER :
+## 🌟 ENONCE :
 ```
     Ecrire un algorithme qui affiche le nombre de chiffre dans un nombre entier N (positive ou négative) introduit par l'utilisateur. Exemple d'exécution:
         > Introduire un nombre: 123

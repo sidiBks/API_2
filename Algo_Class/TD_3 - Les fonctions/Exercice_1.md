@@ -1,6 +1,6 @@
 # LES SOUS ALGORITHMES (LES FONCTIONS) - EXERCICE 1 
 
-## 🌟 ENONCER 1:
+## 🌟 ENONCE 1:
 ```
     Faites la fonction KmMiles qui prend en paramètre un nombre de kilomètres et qui renvoi la valeur correspendante en miles.
 ```
@@ -14,7 +14,7 @@ DEBUT
 FINFCT
 ````
 
-## 🌟 ENONCER 2:
+## 🌟 ENONCE 2:
 ```
     Faites la fonction MilesKm qui fait l'opération inverse (elle calcule le nombre de kilomètres à partir de miles).
 ```
@@ -28,7 +28,7 @@ DEBUT
 FINFCT
 ````
 
-## 🌟 ENONCER 3:
+## 🌟 ENONCE 3:
 ```
     Faites la fonction cmKm qui prend une valeur entière de centimètres et qui renvoie le nombre de mètres équivalents.
 ```
@@ -42,7 +42,7 @@ DEBUT
 FINFCT
 ````
 
-## 🌟 ENONCER 4:
+## 🌟 ENONCE 4:
 ```
     Faites ensuite un algorithme qui demande à l'utilisateur un nombre puis qui lui demande quelle conversion à effectuer (1 pour km->Miles, 2 pour miles->Km, 3 pour cm->Km et 4 pour cm->Miles) pour qu'ensuite afficher le résultat de cette conversion.
 ```
