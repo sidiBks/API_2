@@ -45,7 +45,9 @@ DEBUT
         LIRE(coef_table[i])
     FINPOUR
 
-    /* Initier le polynôme */
+    /* Initier le polynôme & la valeur à evaluer */
+    AFFICHER("Donner x : ")
+    LIRE(x)
     P <- 0
 
     /* Calcul du polynôme */
