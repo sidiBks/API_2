@@ -26,7 +26,7 @@ DEBUT
     SI (n%2 = 0) ALORS
         POUR (i<-0, i < (n+1) div 2, i<-i+1)
             a <- T[i]
-            T[i] <- T[n-i]
+            T[i] <- T[n-i-1]
             T[n-i] <- a
         FINPOUR
     SINON
