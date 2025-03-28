@@ -32,11 +32,12 @@ DEBUT
     POUR(i<-0, i <= n, i<-i+1)
         SI (i = 0) ALORS
             fact <- 1
+        SINON
+            TANTQUE (n - i >= 0)
+                fact <- fact * i
+                i <- i+1 
+            FINTQ
         FINSI
-        TANTQUE (n - i >= 0)
-            fact <- fact * i
-            i <- i+1 
-        FINTQ
     FINPOUR
     RETOURNE fact
 FINFCT
