@@ -33,10 +33,7 @@ DEBUT
         SI (i = 0) ALORS
             fact <- 1
         SINON
-            TANTQUE (n - i >= 0)
-                fact <- fact * i
-                i <- i+1 
-            FINTQ
+            fact <- fact * i
         FINSI
     FINPOUR
     RETOURNE fact
